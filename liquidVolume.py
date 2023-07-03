@@ -1,7 +1,3 @@
-# %%writefile HW1Q3.py
-# Your code for Question 3 in this cell
-# After you finish writing your code and check that it is working correctly,
-# uncomment the first line and run your code so that it genrates HW1Q3.py file
 from math import *
 
 radius = float(input('Enter radius of the cylinder: '))
